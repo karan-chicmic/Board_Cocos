@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-up" width="10" height="10" tilewidth="32" tileheight="32" infinite="0" nextlayerid="7" nextobjectid="5">
+ <tileset firstgid="1" source="tileset_blue_color.tsx"/>
+ <tileset firstgid="505" source="tileset_yellow_color.tsx"/>
+ <layer id="1" name="cell layer" width="10" height="10" locked="1">
+  <data encoding="csv">
+1,505,1,505,1,505,1,505,1,505,
+505,1,505,1,505,1,505,1,505,1,
+1,505,1,505,1,505,1,505,1,505,
+505,1,505,1,505,1,505,1,505,1,
+1,505,1,505,1,505,1,505,1,505,
+505,1,505,1,505,1,505,1,505,1,
+1,505,1,505,1,505,1,505,1,505,
+505,1,505,1,505,1,505,1,505,1,
+1,505,1,505,1,505,1,505,1,505,
+505,1,505,1,505,1,505,1,505,1
+</data>
+ </layer>
+</map>
